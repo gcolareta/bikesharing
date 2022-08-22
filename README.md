@@ -31,3 +31,5 @@ The following visualizations, show that the majority of subscribers who use this
 - It would be interesting to further explore why male customers are using the service significantly more than female ones.
 - These results and visualizations have been created using data for the month of August alone. It would be helpful to explore trends for the warmer months in the city.
 
+[link to Story] (https://public.tableau.com/views/NYCBikes_16611380059240/NYCCityBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
